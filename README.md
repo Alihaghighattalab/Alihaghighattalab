@@ -70,13 +70,13 @@ change soon ....😀
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alihaghighattalab&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihaghighattalab&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Alihaghighattalab" /></p>
 
 </td></tr></table>  
 
@@ -90,9 +90,4 @@ change soon ....😀
   
 
 <br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
