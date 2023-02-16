@@ -22,7 +22,7 @@ change soon ....😀
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 - 💻 Happy frontend developer  
   
@@ -32,8 +32,9 @@ change soon ....😀
 
 - ⚡ Fun fact: We are serious in our works   
 
-
-</td><td valign="top" width="50%">
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+  
+</td><td valign="center" width="50%">
 
 <div align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
@@ -81,13 +82,6 @@ change soon ....😀
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Alihaghighattalab&&style=flat-square)  
-  
-
-<br/>  
-<br />
+[![](https://visitcount.itsvg.in/api?id=Alihaghighattalab&icon=5&color=0)](https://visitcount.itsvg.in)
