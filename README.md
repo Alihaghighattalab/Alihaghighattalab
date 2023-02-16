@@ -15,7 +15,8 @@
 
 
 ### Glad to see you here!  
-Hi, I'm Ali Haghighat-talab, a 21-year-old frontend developer with more than 2 years of experience in web development with React.js. I have acquired advanced skills in designing and developing dynamic and interactive web pages through completing specialized courses and various projects in this field.
+<table><tr><td valign="center" width="100%">
+  Hi, I'm Ali Haghighat Talab, a 21 year old frontend developer with more than 2 years of experience in web development with React.js. I have acquired advanced skills in designing and developing dynamic and interactive web pages through completing specialized courses and various projects in this field.
 
 Currently, I work as a frontend developer at a software development company, where I focus on improving the user interface and experience in web applications. I have also collaborated with professionals from different areas and have enhanced my communication and coordination skills.
 
@@ -32,6 +33,8 @@ Sass/CSS Modules
 MUI, Tailwind CSS, Bootstrap, React-Bootstrap
 Git, Webpack
 I am always seeking to learn and expand my skills in web development and programming.😀  
+</td></tr></table>  
+
 <br/>  
 
 
