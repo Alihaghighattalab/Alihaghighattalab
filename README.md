@@ -37,7 +37,7 @@ change soon ....😀
 </td><td valign="center" width="50%">
 
 <div align="center">
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" height="100%" />
 </div>  
 
 
