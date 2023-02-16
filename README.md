@@ -31,7 +31,7 @@ HTML/CSS
 Sass/CSS Modules
 MUI, Tailwind CSS, Bootstrap, React-Bootstrap
 Git, Webpack
-I am always seeking to learn and expand my skills in web development and programming. If you require my skills and expertise for a project or collaboration, please feel free to contact me..😀  
+I am always seeking to learn and expand my skills in web development and programming.😀  
 <br/>  
 
 
