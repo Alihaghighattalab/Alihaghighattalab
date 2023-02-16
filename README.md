@@ -15,9 +15,23 @@
 
 
 ### Glad to see you here!  
-change soon ....😀  
-  
+Hi, I'm Ali Haghighat-talab, a 21-year-old frontend developer with more than 2 years of experience in web development with React.js. I have acquired advanced skills in designing and developing dynamic and interactive web pages through completing specialized courses and various projects in this field.
 
+Currently, I work as a frontend developer at a software development company, where I focus on improving the user interface and experience in web applications. I have also collaborated with professionals from different areas and have enhanced my communication and coordination skills.
+
+In addition to my expertise in web development, I possess extensive knowledge of the following programming languages and frameworks:
+
+JavaScript
+TypeScript
+React.js
+Next.js
+Redux
+React Native
+HTML/CSS
+Sass/CSS Modules
+MUI, Tailwind CSS, Bootstrap, React-Bootstrap
+Git, Webpack
+I am always seeking to learn and expand my skills in web development and programming. If you require my skills and expertise for a project or collaboration, please feel free to contact me..😀  
 <br/>  
 
 
@@ -71,7 +85,7 @@ change soon ....😀
 
 
 ## Github Stats  
-<table><tr><td valign="center" width="50%">
+<table align="center" width="100%"><tr><td valign="center" width="50%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>
 
