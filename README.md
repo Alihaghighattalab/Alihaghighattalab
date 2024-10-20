@@ -91,7 +91,12 @@ I am always seeking to learn and expand my skills in web development and program
 ## Github Stats 📈
 <table align="center" width="100%"><tr><td valign="center" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>br>
+  ![](https://github-readme-stats.vercel.app/api?username=alihaghighattalab&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=alihaghighattalab&theme=react&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaghighattalab&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 </td><td valign="center" width="50%">
 
