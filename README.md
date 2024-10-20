@@ -93,7 +93,6 @@ I am always seeking to learn and expand my skills in web development and program
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>br>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=Amirhoseinmiri&theme=react&hide_border=false)" alt="Alihaghighattalab" />
 </p>
 
 </td><td valign="center" width="50%">
