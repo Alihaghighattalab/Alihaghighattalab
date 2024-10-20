@@ -92,7 +92,7 @@ I am always seeking to learn and expand my skills in web development and program
 <table align="center" width="100%"><tr><td valign="center" width="50%">
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>br>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihaghighattalab&show_icons=true&theme=dracula&locale=en" alt="Alihaghighattalab" /></p>
 </p>
 
 </td><td valign="center" width="50%">
